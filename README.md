@@ -12,7 +12,7 @@ To overcome computational challenges, we  fit our model by approximate inference
   
 ## Modeling Framework
 An example of the generative model of MEFF with two data modalities for a patient. The observations space is represented by the lower-dimensional latent factor shared across modalities and the unique latent factor  specific for each modality.
-![](https://github.com/qw2223/MEFF/blob/main/figure/DAG.pdf)
+![](https://github.com/qw2223/MEFF/blob/main/figure/DAG.png)
 
 
 ## Application to PPMI 
