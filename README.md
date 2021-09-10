@@ -11,6 +11,8 @@ To overcome computational challenges, we  fit our model by approximate inference
   + b. **Department of Psychiatry, Columbia University, New York, NY, USA**
   
 ## Modeling Framework
+An example of the generative model of MEFF with two data modalities for a patient. The observations space is represented by the lower-dimensional latent factor shared across modalities and the unique latent factor  specific for each modality.
+![](https://github.com/qw2223/MEFF/blob/main/figure/DAG.pdf)
 
 
 ## Application to PPMI 
