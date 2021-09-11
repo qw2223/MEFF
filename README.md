@@ -16,3 +16,6 @@ An example of the generative model of MEFF with two data modalities for a patien
 
 
 ## Application to PPMI 
+The model estimation and inference can be conducted using the Python library [Edward](http://edwardlib.org/).
+
+An example code for fitting MEFF model on [PPMI](https://www.ppmi-info.org/) data can be found in `MEFF_PPMI_example.ipynb`. The helper functions are in `MEFF_PPMI_function.py`.
